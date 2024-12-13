@@ -1,19 +1,16 @@
 ### Hi there 🙋🏽‍♂️, I'm Francesco, nice to meet you!
 
-After being an embedded software developer for more than 2 years I'm now a full stack developer, always eager to learn more and to get out of my comfort zone.
-I love being surrounded by smart and talented people from which I always try to learn as much as possible.
+My journey into the tech world began with a passion for science, leading me to apply to engineering school after high school. After earning a bachelor's and master's degree, and improving my English in San Diego, I started my career as an Embedded Software Engineer, where I discovered my love for coding. This sparked my decision to move to Barcelona, where I immersed myself in a new language and culture while attending Codeworks, an intense bootcamp that set the foundation for my career as a Full Stack Software Developer.
 
-When coding I always try to make my code as clean and efficient as possible. For me, code readability is of utmost importance.
+Now, with several years of experience, I specialize in designing and implementing cloud solutions on AWS. My focus is on creating resilient, scalable systems through serverless and event-driven architectures, delivering impactful business outcomes. I’m passionate about leveraging AWS services to build robust solutions that drive growth and performance.
 
-Coming from programming in C, I would always prefer using TypeScript. In my opinion it makes the code more robust and less prone to errors.
+I am always eager to learn and continuously push myself outside my comfort zone. This mindset allows me to expand my knowledge and overcome challenges. When faced with difficult tasks, I break them down into smaller, more manageable problems, gaining better perspective and making it easier to find solutions.
 
-In my free time I love practicing any kind of sport, from beach volley 🏐 to snowboarding 🏂 and playing the guitar 🎸.
+In my free time, I enjoy a wide range of sports, from beach volleyball 🏐 to snowboarding 🏂, and I also love playing the guitar 🎸.
 
 If you have any questions feel free to contact me 📱
 
-
-
- ` 📬 fagnani.francesco@gmail.com | 📞 +393408735435 `
+ ` 📬 fagnani.francesco@gmail.com | 📞 +34613058361 `
 <!--
 **cesco-f/cesco-f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
